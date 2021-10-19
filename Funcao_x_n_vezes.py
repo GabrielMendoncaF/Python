@@ -8,5 +8,5 @@ def funcao (x):
 
 while n > 0:
     print("f (" + str(x_inicial) + ") = " + str(funcao(x_inicial))) #resposta
-    n = n -1 #para executar a quantidade de interações necessária (n vezes)
-    x_inicial = x_inicial + 0.5  #adiciona 0.5 ao x inicial e
+    n = n -1 #para executar a quantidade de interações necessárias (n vezes)
+    x_inicial = x_inicial + 0.5  #adiciona 0.5 ao x inicial
